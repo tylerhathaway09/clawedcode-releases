@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Clawed Code Updates</title>
+    <link>https://github.com/tylerhathaway09/clawedcode-releases</link>
+    <description>Updates for Clawed Code - Real-time visual status for Claude Code</description>
+    <language>en</language>
+
+    <!-- Release entries will be added here by generate_appcast.sh -->
+    <!-- Each new release should be added at the top -->
+
+    <item>
+      <title>Version 0.3.7</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.3.7</h2>
+          <h3>Fixed</h3>
+          <ul>
+            <li>Critical analytics issue in production builds</li>
+            <li>Enhanced diagnostic tools for troubleshooting</li>
+          </ul>
+          <h3>Improved</h3>
+          <ul>
+            <li>Updated app icon with refreshed color palette and proper padding</li>
+            <li>Better error visibility in production</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Tue, 18 Nov 2025 20:40:46 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/tylerhathaway09/clawedcode-releases/releases/download/v0.3.7/ClawedCode-0.3.7.dmg"
+        sparkle:edSignature="SRyYRecO66CbtNH/Ejf6N6V/aupeQh/Ai2i1FrC0PX9clVrLonNGVVLYfb1WplSZa3flDFMOUI1PlcAjlWi6Cw=="
+        length="22094464"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
+      <title>Version 0.3.6</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.3.6</h2>
+          <h3>Added</h3>
+          <ul>
+            <li>Help & Support system with direct email contact</li>
+            <li>One-click email copy button for easy feedback</li>
+          </ul>
+          <h3>Improved</h3>
+          <ul>
+            <li>Simplified Preferences: 4 tabs instead of 6 for cleaner navigation</li>
+            <li>Merged Support and About tabs</li>
+            <li>Moved Privacy and Launch settings to About tab</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Wed, 12 Nov 2025 19:23:20 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/tylerhathaway09/clawedcode-releases/releases/download/v0.3.6/ClawedCode-0.3.6.dmg"
+        sparkle:edSignature="O4MaLVbnxQGa4vk2MNrQhQjBHCmT8tX0wGIAZNYAIVUWiOd1rMZD58fqnQopcPsz4wjYBy86FnVE3NUwTmYeDw=="
+        length="21357899"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
+      <title>Version 0.3.5</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.3.5</h2>
+          <p>Improved analytics accuracy - now tracks unique devices for better metrics</p>
+        ]]>
+      </description>
+      <pubDate>Wed, 12 Nov 2025 01:44:56 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/tylerhathaway09/clawedcode-releases/releases/download/v0.3.5/ClawedCode-0.3.5.dmg"
+        sparkle:edSignature="gSdeNM3uqg/ZJQJ9YRNgM1vdE2DbAh97jCbAxOdvMdxq7nEbdzrIg/TCmUsjgKGwQ7hLanzeFCAoNmvD0AoOCA=="
+        length="21358101"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
+      <title>Version 0.3.4</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.3.4</h2>
+          <p>Privacy-focused analytics to improve the app (optional, can be disabled in Preferences)</p>
+          <p>Performance and stability improvements</p>
+        ]]>
+      </description>
+      <pubDate>Wed, 12 Nov 2025 01:05:30 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/tylerhathaway09/clawedcode-releases/releases/download/v0.3.4/ClawedCode-0.3.4.dmg"
+        sparkle:edSignature="kF40D08e3qVfBPeh3LJOnwL0aky1RF6IMlzRvq7Im6Z0KIjsWi+DHO04Y0zq/14FANgJf10KKOEP0o/DOIDxBA=="
+        length="21357762"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
+      <title>Version 0.3.3</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.3.3</h2>
+          <p>Fix: Removed non-functional keyboard shortcut</p>
+        ]]>
+      </description>
+      <pubDate>Wed, 05 Nov 2025 18:39:36 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/tylerhathaway09/clawedcode-releases/releases/download/v0.3.3/ClawedCode-0.3.3.dmg"
+        sparkle:edSignature="ke+8i5qp1xehozkboG2kfqo9Sto9i+CSDPseuy08/P7VoZobd20vy0z+fy16EIOsXR4jsOdy1rj1EPHeXZFUBQ=="
+        length="21276240"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
+      <title>Version 0.3.2</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.3.2</h2>
+          <p>Improved skin selector UX: cleaner badges, better navigation</p>
+        ]]>
+      </description>
+      <pubDate>Tue, 04 Nov 2025 21:42:21 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/tylerhathaway09/clawedcode-releases/releases/download/v0.3.2/ClawedCode-0.3.2.dmg"
+        sparkle:edSignature="LDedykHZff7cLjCBCBcRuaXuwotKOIPMWmkdVW84r7KdMxqbcGE8e53pubOSRWqXPlu0NtBWLY0HTQq/KfBfDg=="
+        length="21256164"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
+      <title>Version 0.3.1</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.3.1</h2>
+          <p>UX improvements: refined hover controls, fixed corner clipping, improved click-to-activate behavior, eliminated text ghosting, and optimized compact mode styling.</p>
+        ]]>
+      </description>
+      <pubDate>Fri, 31 Oct 2025 23:45:57 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/tylerhathaway09/clawedcode-releases/releases/download/v0.3.1/ClawedCode-0.3.1.dmg"
+        sparkle:edSignature="gsN0qQGAtvPAm9fJpj4sVF7QcJnIJZYMD+agaJUzeUctO9Nyrv8uyoGxlB+aAulciOdZzYQDqy011ky9JRCOCQ=="
+        length="7495665"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
+      <title>Version 0.3.0</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.3.0</h2>
+          <p>✨ Auto-update support via Sparkle Framework</p>
+          <p>Now ClawedCode will automatically check for and install updates!</p>
+        ]]>
+      </description>
+      <pubDate>Wed, 29 Oct 2025 15:38:43 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/tylerhathaway09/clawedcode-releases/releases/download/v0.3.0/ClawedCode-0.3.0.dmg"
+        sparkle:edSignature="Xgz5nWFy4pPFKgG2bRosipuTpKeX9OEruNJBn7qNV+PHE1pKUJ+wBCtIBNitzFIpASQMGVuZl9Kog6CHTYPyDg=="
+        length="8549050"
+        type="application/octet-stream"
+      />
+    </item>
+
+  </channel>
+</rss>
