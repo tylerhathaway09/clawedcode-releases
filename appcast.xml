@@ -10,6 +10,26 @@
     <!-- Each new release should be added at the top -->
 
     <item>
+      <title>Version 0.5.7</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.5.7</h2>
+          <p>Bug fixes and stability improvements</p>
+        ]]>
+      </description>
+      <pubDate>Mon, 20 Jan 2026 14:05:24 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/tylerhathaway09/clawedcode-releases/releases/download/v0.5.7/ClawedCode-0.5.7.dmg"
+        sparkle:edSignature="/RxtU3LWa0Zd/UH58+GmtBc3ANxWuHwTtDdf9JEq11YmhUa9G0UuO4khsG0VzH7/LXZjduSqylfIGQHaI2IRCQ=="
+        length="48750627"
+        type="application/octet-stream"
+      />
+    </item>
+
+    <item>
       <title>Version 0.5.6</title>
       <description>
         <![CDATA[
